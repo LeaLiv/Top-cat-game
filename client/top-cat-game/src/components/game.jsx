@@ -19,7 +19,7 @@ import {
 import { styled } from '@mui/material/styles';
 import EmojiEventsIcon from '@mui/icons-material/EmojiEvents';
 
-const API_BASE = 'http://localhost:3001/leadboard';
+const API_BASE = 'https://top-cat-game.onrender.com/leadboard';
 
 const MainCard = styled(Card)(({ theme }) => ({
   background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
