@@ -17,7 +17,6 @@ import {
   Grid,
 } from '@mui/material';
 import { styled } from '@mui/material/styles';
-import EmojiEventsIcon from '@mui/icons-material/EmojiEvents';
 
 const API_BASE = 'https://top-cat-game.onrender.com/leadboard';
 
